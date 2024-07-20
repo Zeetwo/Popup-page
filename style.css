@@ -96,9 +96,10 @@ body {
 }
 #EMAIL{
     border: 0;
+    width: 200px;
     background-color: inherit;
 }
-#submit{
+#sub{
     border: 0;
     background-color: #EBBF53;
     color: #FEFAF3;
@@ -106,6 +107,7 @@ body {
     float: right;
     width: 160px;
     text-align: center;
+    cursor: pointer;
     border-radius: 0 28px 28px 0;
 }
 .para{
